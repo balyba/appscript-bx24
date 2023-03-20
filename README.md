@@ -1,6 +1,6 @@
 # appscript-bx24 - script based on Google appScript
 
-This is a script based on Google that allows you to track changes in a Google Spreadsheet and send them to Bitrix24.
+This is a script based on Google appScript that allows you to track changes in a Google Spreadsheet and send them to Bitrix24.
 
 # How to use
 
